@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm IZeM!
 
-<!--
-**IZeMgg/IZeMgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! tech enthusiast exploring the intersection of marketing, data science, and technology.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Marketing Masters.
+- 💡 Passionate about learning data science, coding, and analytics.
+- 🔧 Building my skills in Python, SQL, and web development.
+
+## 🌱 Current Focus
+
+- Working on my master's thesis.
+- Enhancing my knowledge in data and computer science.
+
+## 📬 Connect With Me
+
+Feel free to explore my projects and reach out!
+
+Thanks for visiting!
