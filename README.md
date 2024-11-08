@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ziad Bloukid
 
-**Digital Marketing / Data Science Enthusiast**
+**Digital Marketing / Tech Enthusiast**
 
 ## 🌟 About Me
 
