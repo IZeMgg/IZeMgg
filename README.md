@@ -14,13 +14,25 @@
 </div>
 
 ## 🛠️ **Skills**
+
 <div align="center">
 
-| **Programming**      | **Web Development**       | **Data Science & Analytics** |
-|-----------------------|---------------------------|--------------------------------|
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) **Learning C** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** (Intermediate) |
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black) **Core Programming** | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) **SQL Databases** |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **Learning JS** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) **React (Basics)** | ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-B0BEC5?style=flat-square&logo=data&logoColor=black) |
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23006AFF.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+### **Data Science & Tools**
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%23006AFF.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
@@ -38,22 +50,12 @@
 
 ---
 
-## 📖 **Projects**
-<div align="center">
-
-🚧 Under Construction 🚧  
-🎯 Stay tuned for exciting projects in **data science**, **analytics**, and **web development**!  
-
-</div>
-
----
-
 ## 🌐 **Connect With Me**
 <div align="center">
 
-💼 [**LinkedIn**](https://linkedin.com/in/yourprofile)  
-📂 [**Portfolio Website**](https://yourwebsite.com)  
-📬 Reach out or explore my projects on [**GitHub**](https://github.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziadbl) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/izemgg)  
+
 
 ---
 
